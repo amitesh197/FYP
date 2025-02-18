@@ -15,8 +15,8 @@ This folder contains two Python files:
 
 ## 3. trained_models
 This folder contains two trained models:
-- **`detect_parsing.pth.tar`**: For detection and parsing.
-- **`reconstruction.pth.tar`**: For reconstruction.
+- **`detect_parsing.pth`**: For detection and parsing.
+- **`reconstruction.pth`**: For reconstruction.
 
 You can download the trained models from Google Drive using this URL:  
 [Download Trained Models](https://drive.google.com/drive/folders/1zNf6HATv3QtrKqGIQBq4af5qQAJ1RUcj?usp=sharing)
